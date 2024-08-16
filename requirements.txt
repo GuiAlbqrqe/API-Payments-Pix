@@ -1,0 +1,6 @@
+Flask
+qrcode
+pillow
+Flask-SocketIO
+Flask-SQLAlchemy
+pytest
